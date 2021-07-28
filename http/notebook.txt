@@ -1,0 +1,14 @@
+1. 使用HTTP客户端发送请求
+2. 使用http.Client控制请求头部等
+3. 使用httputil简化工作
+
+// 其他标准库
+1. bufio
+2. log
+3. encoding/json
+4. regexp
+5. time
+6. strings/math/rand
+
+如何获得文档
+godoc -http :8888

@@ -1,0 +1,14 @@
+// 通用爬虫， 如baidu,google
+// 聚焦爬虫， 从互联网获取结构化数据
+
+// go语言的爬虫库/框架
+    1. henrylee2cn/pholcus
+    2. gocrawl
+    3. colly
+    4. hu17889/go_spider
+
+// 使用ElasticSearch作为数据存储
+
+
+// css 选择器
+
